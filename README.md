@@ -101,6 +101,6 @@ TensorFlow/Keras, Matplotlib, seaborn, pandas, numpy и sklearn.
 
 Перед выполнением кода следует установить необходимые зависимости. Выполните в консоли:
 
-**pip install -r requirements.txt:**
+**pip install -r requirements.txt**
 
 После этого можно запускать основной код.
